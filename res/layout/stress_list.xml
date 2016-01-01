@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:clickable = "true"
+    android:background ="@drawable/background_stresslist" 
+    >
+    
+  <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" 
+android:layout_marginTop="35dip" android:textColor="@color/brickred" android:typeface="serif" 
+android:id="@+id/heading" android:text="@string/heading_list" 
+android:gravity="center_horizontal" android:layout_gravity="center_horizontal" 
+android:textSize="25dip"/>  
+
+   
+<ExpandableListView android:id="@+id/listview" 
+android:layout_width="fill_parent" 
+android:layout_height="wrap_content" 
+android:dividerHeight="5dip"
+android:gravity="center_horizontal|center_vertical"
+android:divider="@drawable/background_stresslist"
+android:layout_marginTop = "25dip"
+android:cacheColorHint="#00000000">
+</ExpandableListView>
+</LinearLayout>

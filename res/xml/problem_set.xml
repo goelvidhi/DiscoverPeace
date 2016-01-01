@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feed>
+
+<title> Stress feeds </title>
+
+<author>com.anv.org</author>
+<updated>2011-09-22T03:11:53P</updated>
+<version>0.1</version>
+
+<stress-types>
+
+	<stress-class>
+	<id>st1</id>
+	<title>PHYSICAL</title>
+	
+				<stress-cause>
+				<id>sc1</id>
+				<title>-Physical Fatigue-</title>
+				<summary>Any tiring activity or long hours work out performed incorrectly can cause serious problems like headaches, stomach pains, cramps etc. A common cause for aches is dilation of the blood vessels. Typically you sweat out far more water than you ingest during exercise, which can alter your body’s mineral concentration. 
+				
+Try any of the below solutions:  
+				</summary>
+				<solution-ref>
+					<ref-id>sc1#so1</ref-id>
+					<ref-id>sc1#so2</ref-id>
+				</solution-ref>
+				</stress-cause>
+				
+				<stress-cause>
+				<id>sc2</id>
+				<title>- Trouble Sleeping -</title>
+				<summary>Lack of sleep can be caused due to hormonal changes, age factor, physical discomfort or anxiety. The most significant effect of sleep deprivation is the lack of concentration and mental ability in daily activities. 
+
+Try any of the below solutions:  
+				</summary>
+				<solution-ref>
+					<ref-id>sc2#so1</ref-id>
+					<ref-id>sc2#so2</ref-id>
+					<ref-id>sc5#so21</ref-id>
+					<ref-id>sc5#so22</ref-id>
+					<ref-id>sc5#so24</ref-id>
+					<ref-id>sc5#so17</ref-id>
+				</solution-ref>
+				</stress-cause>
+	</stress-class>
+	
+	
+	<stress-class>
+	<id>st-me-3</id>
+	<title>MENTAL</title>
+				<stress-cause>
+				<id>st-me-31</id>
+				<title>- Perfectionism -</title>
+				<summary>Perfectionists often have very high standards for themselves and others and feel frustrated when they don't meet their goals. They are hardly ever really satisfied with their performance.
+
+Try any of the below solutions:  
+				</summary>
+				<solution-ref>
+					<ref-id>sc4#so8</ref-id>
+					<ref-id>sc4#so9</ref-id>
+					<ref-id>sc4#so10</ref-id>
+					<ref-id>sc5#so25</ref-id>
+					<ref-id>sc5#so26</ref-id>
+					<ref-id>sc5#so27</ref-id>
+				</solution-ref>
+				</stress-cause>
+				
+				<stress-cause>
+				<id>st-me-32</id>
+				<title>- Worry or Anxiety -</title>
+				<summary>Worrying can be helpful when it spurs you to take positive actions and solves a problem. But if you’re preoccupied with "what ifs" and worst-case scenarios, worry becomes a problem of its own.
+
+Try any of the below solutions:  
+				</summary>
+				<solution-ref>
+					<ref-id>sc6#so1</ref-id>
+					<ref-id>sc6#so2</ref-id>
+					<ref-id>sc6#so3</ref-id>
+					<ref-id>sc6#so4</ref-id>
+					<ref-id>sc6#so5</ref-id>
+					<ref-id>sc3#so2</ref-id>
+				</solution-ref>
+				</stress-cause>
+				
+				<stress-cause>
+				<id>st-me-33</id>
+				<title>- Unavoidable confusion -</title>
+				<summary>Confusion is a change in mental status in which a person is not able to think with his or her usual level of clarity. Patience can help to view things clearly. 
+
+Try any of the below solutions:  
+				</summary>
+				<solution-ref>
+					<ref-id>sc4#so13</ref-id>
+					<ref-id>sc4#so14</ref-id>
+					<ref-id>sc2#so3</ref-id>
+					<ref-id>sc4#so2</ref-id>
+					<ref-id>sc4#so7</ref-id>
+					<ref-id>sc5#so20</ref-id>
+				</solution-ref>
+				</stress-cause>
+				
+				<stress-cause>
+				<id>st-me-34</id>
+				<title>- Depression -</title>
+				<summary>Depression drains your energy, hope, and drive, making it difficult to do what you need to feel better. You can’t beat it through sheer will-power, but you do have some control.
+
+Try any of the below solutions:  
+				</summary>
+				<solution-ref>
+					<ref-id>sc5#so9</ref-id>
+					<ref-id>sc7#so1</ref-id>
+					<ref-id>sc2#so4</ref-id>
+					<ref-id>sc5#so12</ref-id>
+					<ref-id>sc5#so15</ref-id>
+					<ref-id>sc5#so19</ref-id>
+					<ref-id>sc7#so2</ref-id>
+				</solution-ref>
+				</stress-cause>
+				
+				<stress-cause>
+				<id>st-me-35</id>
+				<title>- Competition -</title>
+				<summary>The spirit of competition motivates people to perform better. Intense competitiveness causes aggressive behavior and resentment between colleagues, leading to stress at the workplace.
+
+Try any of the below solutions:  
+				</summary>
+				<solution-ref>
+					<ref-id>sc8#so1</ref-id>
+					<ref-id>sc8#so2</ref-id>
+					<ref-id>sc8#so3</ref-id>
+					<ref-id>sc8#so4</ref-id>
+					<ref-id>sc4#so8</ref-id>
+					
+					</solution-ref>
+				
+				</stress-cause>
+
+
+<stress-cause>
+				<id>st-me-36</id>
+				<title>- Stress at work -</title>
+				<summary>While some stress is a normal part of the work place, excessive stress can interfere with your productivity and reduce your physical and emotional health.
+
+Try any of the below solutions:  
+				</summary>
+				<solution-ref>
+					<ref-id>sc8#so5</ref-id>
+					<ref-id>sc4#so5</ref-id>
+					<ref-id>sc5#so5</ref-id>
+					<ref-id>sc4#so12</ref-id>
+					<ref-id>sc8#so6</ref-id>
+					<ref-id>sc3#so3</ref-id>
+					<ref-id>sc5#so12</ref-id>
+					
+				</solution-ref>
+				
+				</stress-cause>
+	
+	</stress-class>
+	
+	<stress-class>
+	<id>st-em-4	</id>
+	<title>EMOTIONAL</title>
+	
+	
+				<stress-cause>
+				<id>st-em-41</id>
+				<title>- Anger -</title>
+				<summary>Anger can be a healthy emotion that helps us detect and respond to a threatening situation, if under control. Uncontrolled anger can lead to stress, unhealthiness and unhappiness.
+
+Try any of the below solutions:  
+				</summary>
+				<solution-ref>
+					<ref-id>sc9#so1</ref-id>
+					<ref-id>sc9#so2</ref-id>
+					<ref-id>sc9#so3</ref-id>
+					<ref-id>sc4#so15</ref-id>
+					<ref-id>sc5#so11</ref-id>
+					<ref-id>sc4#so16</ref-id>
+					<ref-id>sc5#so28</ref-id>
+					
+				</solution-ref>
+				
+				</stress-cause>
+				
+				<stress-cause>
+				<id>st-em-42</id>
+				<title>- Guilt -</title>
+				<summary>Everyone experiences guilt, some more than others. Guilt is like your wisdom teeth: everyone is born with it, but it will save you a lot of pain to get rid of it when you can. 
+
+
+Try any of the below solutions:  
+				</summary>
+				<solution-ref>
+					<ref-id>sc10#so1</ref-id>
+					<ref-id>sc4#so18</ref-id>
+					<ref-id>sc4#so19</ref-id>
+					<ref-id>sc10#so2</ref-id>
+					<ref-id>sc4#so20</ref-id>
+					<ref-id>sc4#so6</ref-id>
+					<ref-id>sc5#so18</ref-id>
+					
+				</solution-ref>
+				
+				</stress-cause>
+				
+				<stress-cause>
+				<id>st-em-43</id>
+				<title>- Loneliness -</title>
+				<summary>Everyone experiences loneliness from time to time, around the holiday season, Valentine’s Day, and during times of extreme stress. But people don’t always talk about these feelings, and don’t always know what to do with these feelings. 
+
+
+Try any of the below solutions:  
+				</summary>
+				<solution-ref>
+					<ref-id>sc5#so30</ref-id>
+					<ref-id>sc5#so31</ref-id>
+					<ref-id>sc5#so32</ref-id>
+					<ref-id>sc5#so15</ref-id>
+					<ref-id>sc2#so5</ref-id>
+					<ref-id>sc5#so14</ref-id>
+				</solution-ref>
+
+				</stress-cause>
+				
+				<stress-cause>
+				<id>st-em-44</id>
+				<title>- Sadness -</title>
+				<summary>Sadness comes from losing someone or something important to you. It takes time and patience to overcome sadness, as well as the support of loved ones. 
+
+
+Try any of the below solutions:  
+				</summary>
+				<solution-ref>
+					<ref-id>sc5#so9</ref-id>
+					<ref-id>sc5#so33</ref-id>
+					<ref-id>sc5#so16</ref-id>
+					<ref-id>sc3#so1</ref-id>
+					<ref-id>sc5#so34</ref-id>
+					<ref-id>sc5#so29</ref-id>
+					
+				</solution-ref>
+
+				</stress-cause>
+				
+				<stress-cause>
+				<id>st-em-45</id>
+				<title>- Fear -</title>
+				<summary>The most common fears are about common problems, and the struggles of overcoming adversity in our daily lives. The only way to get rid of it is to face it. 
+
+Try any of the below solutions:  
+				</summary>
+				<solution-ref>
+					<ref-id>sc2#so1</ref-id>
+					<ref-id>sc4#so21</ref-id>
+					<ref-id>sc5#so4</ref-id>
+					<ref-id>sc4#so22</ref-id>
+					<ref-id>sc4#so23</ref-id>
+					<ref-id>sc4#so24</ref-id>
+					<ref-id>sc5#so10</ref-id>
+					<ref-id>sc4#so2</ref-id>
+				</solution-ref>
+				</stress-cause>
+	</stress-class>
+	
+	<!-- <stress-class>
+	<id>st-nu-5</id>
+	<title>NUTRITIONAL</title>
+	
+	
+				<stress-cause>
+				<id>st-nu-51</id>
+				<title>- Food Allergies -</title>
+				</stress-cause>
+				
+				<stress-cause>
+				<id>st-nu-52</id>
+				<title>- Vitamin or Mineral Deficiency -</title>
+				</stress-cause>
+				
+	</stress-class>
+ -->	
+	<stress-class>
+	<id>st-tr-6</id>
+	<title>TRAUMATIC</title>
+	
+	
+				<!-- <stress-cause>
+				<id>st-tr-61</id>
+				<title>- Injuries or Burns -</title>
+				</stress-cause>
+				 -->
+				
+				<stress-cause>
+				<id>st-tr-62</id>
+				<title>- Surgery -</title>
+				<summary>Having surgery can bring a lot of stress. Aside from worrying about potential complications, even minor surgery (if there is such a thing) involves risk and requires recovery time. 
+
+Try any of the below solutions:  
+				</summary>
+				<solution-ref>
+					<ref-id>sc2#so1</ref-id>
+					<ref-id>sc2#so4</ref-id>
+					<ref-id>sc4#so7</ref-id>
+					<ref-id>sc4#so25</ref-id>
+					<ref-id>sc5#so12</ref-id>
+				</solution-ref>
+				</stress-cause>
+				
+				<stress-cause>
+				<id>st-tr-63</id>
+				<title>- Prolonged Illness -</title>
+				<summary>Facing a serious illness can be frightening and very stressful! You may feel isolated as well, though you are not alone. 
+
+Try any of the below solutions:  
+				</summary>
+				<solution-ref>
+					<ref-id>sc5#so35</ref-id>
+					<ref-id>sc2#so2</ref-id>
+					<ref-id>sc3#so2</ref-id>
+					<ref-id>sc5#so36</ref-id>
+					<ref-id>sc5#so1</ref-id>
+					<ref-id>sc5#so14</ref-id>
+				</solution-ref>
+				
+				</stress-cause>
+				
+<!-- 				<stress-cause>
+				<id>st-tr-64</id>
+				<title>- Infections -</title>
+				</stress-cause>
+ -->		
+	</stress-class>
+	
+	<stress-class>
+	<id>st-ps-7</id>
+	<title>PSYCHO-SPIRITUAL</title>
+	
+				<stress-cause>
+				<id>st-ps-71</id>
+				<title>- Conflicts in Relationships -</title>
+				<summary>Conflict is a normal and necessary part of healthy relationships. Therefore, learning how to deal with conflict—rather than avoiding it—is crucial. 
+
+Try any of the below solutions:  
+				</summary>
+				<solution-ref>
+					<ref-id>sc11#so1</ref-id>
+					<ref-id>sc4#so2</ref-id>
+					<ref-id>sc4#so13</ref-id>
+					<ref-id>sc11#so2</ref-id>
+					<ref-id>sc11#so3</ref-id>
+					<ref-id>sc11#so4</ref-id>
+					<ref-id>sc4#so16</ref-id>
+					<ref-id>sc4#so24</ref-id>
+					<ref-id>sc5#so3</ref-id>
+					<ref-id>sc11#so5</ref-id>
+				</solution-ref>
+				
+				</stress-cause>
+				
+				<stress-cause>
+				<id>st-ps-72</id>
+				<title>- Financial Pressures -</title>
+								<summary>For many people, having more money simply causes them to inflate their lifestyle in a way that doesn’t reduce stress or bring them more happiness.
+								    
+Try any of the below solutions:  
+				</summary>
+				<solution-ref>
+					<ref-id>sc12#so1</ref-id>
+					<ref-id>sc12#so2</ref-id>
+					<ref-id>sc12#so3</ref-id>
+					<ref-id>sc12#so4</ref-id>
+					<ref-id>sc12#so5</ref-id>
+					<ref-id>sc4#so23</ref-id>
+					<ref-id>sc5#so4</ref-id>
+				</solution-ref>
+				</stress-cause>
+				
+ 				
+				<stress-cause>
+				<id>st-ps-73</id>
+				<title>- Challenges with Life Goals -</title>
+				<summary>Life can be hard enough without creating extra problems for ourselves. Yet that's what many of us do by applying false expectations to our major life goals.
+								    
+Try any of the below solutions:  
+				</summary>
+				<solution-ref>
+					<ref-id>sc5#so2</ref-id>
+					<ref-id>sc8#so5</ref-id>
+					<ref-id>sc6#so3</ref-id>
+					<ref-id>sc4#so22</ref-id>
+					<ref-id>sc4#so14</ref-id>
+					<ref-id>sc4#so7</ref-id>
+					<ref-id>sc2#so5</ref-id>
+				</solution-ref>
+				</stress-cause>
+				
+				<stress-cause>
+				<id>st-ps-74</id>
+				<title>- General State of Happiness -</title>
+				<summary>Mankind is united in conviction that happiness is a very desirable state. Indeed, all of us, are motivated for our need for happiness.
+								    
+Below will help you find your way to authentic happiness.</summary>
+				<solution-ref>
+					<ref-id>sc13#so1</ref-id>
+					<ref-id>sc13#so2</ref-id>
+					<ref-id>sc13#so3</ref-id>
+					<ref-id>sc13#so4</ref-id>
+					<ref-id>sc13#so5</ref-id>
+					<ref-id>sc13#so6</ref-id>
+					<ref-id>sc13#so7</ref-id>
+				</solution-ref>
+				</stress-cause>
+				
+	</stress-class>
+	
+<!-- 	<stress-class>
+	<id>st-en-8</id>
+	<title>ENVIRONMENTAL</title>
+	
+	
+				<stress-cause>
+				<id>st-en-81</id>
+				<title>- Unhygienic Surroundings -</title>
+				</stress-cause>
+				
+				<stress-cause>
+				<id>st-en-82</id>
+				<title>- Discomforting Environment -</title>
+				</stress-cause>
+				
+				<stress-cause>
+				<id>st-en-83</id>
+				<title>- Noisy Surroundings -</title>
+				</stress-cause>
+				
+				<stress-cause>
+				<id>st-en-84</id>
+				<title>- Inappropriate Lights -</title>
+				</stress-cause>
+				
+				<stress-cause>
+				<id>st-en-84</id>
+				<title>- Environmental Pollutants -</title>
+				</stress-cause>
+				
+	</stress-class>
+ -->	
+	
+
+</stress-types>
+</feed>

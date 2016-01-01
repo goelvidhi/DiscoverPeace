@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:clickable = "true"
+    android:background = "@drawable/summary_yellow"
+    android:id = "@+id/stress_solution_layout"
+     android:scrollbars="vertical">
+<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" 
+android:layout_marginTop="30dip" android:textColor="@color/brickred" android:typeface="serif" 
+android:id="@+id/heading_solution" android:text="@string/heading_summary" 
+android:gravity="center_horizontal" android:layout_gravity="center_horizontal" 
+android:textSize="20dip" android:textStyle="bold"/>  
+
+<TextView 
+android:layout_width="fill_parent" 
+android:text="This is under progress." 
+android:id="@+id/detailed_solution" 
+android:layout_height="wrap_content" 
+android:lineSpacingExtra="2dip" 
+android:singleLine ="false" 
+android:textColor="@color/brickred"
+android:background ="@null" 
+android:enabled="true" 
+android:layout_marginTop="12dip" 
+android:layout_marginRight="15dip" 
+android:layout_marginLeft="15dip"
+android:textSize = "15dip"
+android:gravity="fill_horizontal|center"/>
+
+ <ScrollView android:layout_width="fill_parent"
+    android:layout_height="fill_parent" android:scrollbars="none"
+    android:layout_marginTop="8dip" 
+    android:layout_marginLeft="5dip"
+    android:layout_marginRight="5dip"> 
+<LinearLayout 
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+     
+    android:id = "@+id/title_parentlayout_solution"
+    />
+</ScrollView>     
+</LinearLayout>
+

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mainLayout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background_home"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/first_page_heading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="40dip"
+        android:gravity="center_horizontal"
+        android:text="@string/heading"
+        android:textColor="@color/brickred"
+        android:textSize="35dip"
+        android:typeface="serif" />
+
+    <TextView
+        android:id="@+id/first_page_description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="25dip"
+        android:text="@string/first_page_description"
+        android:textColor="@color/white"
+        android:textColorHighlight="@color/grey"
+        android:textSize="22dip" >
+    </TextView>
+
+
+
+   
+
+    <Button
+        android:id="@+id/start_here"
+        android:layout_width="100dip"
+        android:layout_height="35dip"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="185dip"
+        android:background="@drawable/button_shape"
+        android:text="Go"
+        android:textColor="@color/brickred"
+        android:textSize="18dip" />
+
+</LinearLayout>

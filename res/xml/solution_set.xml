@@ -1,0 +1,1427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feed>
+
+<title> Solution feeds </title>
+<updated>2011-09-22T03:11:53P</updated>
+<version>0.1</version>
+
+
+<solution-types>
+
+<solution-class>
+	<id>sc1</id>
+	<title>Fatigue self help</title>
+		
+				<solution>
+				<id>so1</id>
+				<title>Healthy Eating before exercise</title>
+				<summary>
+1. To avoid cramps, try snacking on a banana (a good source of potassium).
+
+2. Make sure you are well hydrated and drink water intermittently even when you are playing or exercising.
+
+3. Do not exercise on an empty or near-empty stomach. Choose a easily digested rich energy source like dry fruits or sprouts. 
+				</summary>
+				</solution>
+				
+				
+				<solution>
+				<id>so2</id>
+				<title>Ideal Practices</title>
+				<summary>
+1. Warm up and cool down effectively
+
+2. Remember to keep a gap of at least 30-45 min between food and exercise.
+
+3. Know your upper limits and avoid exertion beyond that.
+ 
+4. Do not compete with your fellows as the endurance differs from person to person.
+
+5. If symptoms occur most often in cold, dry air, one may need to exercise indoors during the winter or wear a scarf when exercising outside.
+ 
+6. If you have allergies, avoid exertion when a reaction is likely to be triggered.
+				</summary>
+				</solution>
+					
+</solution-class>
+				
+	<solution-class>
+	<id>sc2</id>
+	<title>Meditation</title>
+	
+				<solution>
+				<id>so1</id>
+				<title>Deep Breathe to relax nerves</title>
+				<summary>
+Stress-relieving breathing exercises are an excellent way to quickly relax and reverse your body’s stress response. These types of deep breath "exercises" provide your entire body as much oxygen as it needs to relax your mind.
+ 
+1. Sit comfortably with your back straight.
+
+2. Breathe in through your nose.
+ 
+3. Exhale through your mouth, pushing out as much air as you can while contracting your abdominal muscles.
+ 
+4. Continue to breathe in through your nose and out through your mouth. Try to inhale enough so that your lower abdomen rises and falls. Count slowly as you exhale.
+
+5. If you wish to listen to soothing music while practicing deep breathing, play this. 
+				</summary>
+				</solution>
+				
+				
+				<solution>
+				<id>so2</id>
+				<title>Body scan meditation</title>
+				<summary>
+A body scan makes you more aware of the movement of energy through each part of your body and relaxes that part.
+1. Lie on your back in a relaxed position. Breathe deeply for about two minutes to become comfortable.
+
+2. Turn your focus to the toes of your right foot. Imagine each deep breath flowing to your toes. Remain focused on this area for one to two minutes.
+
+3. Move your focus to the sole of your right foot and do the same.
+ 
+4. Continue to do this for every muscle group in your body, working your way up from your feet to the top of your head.
+
+5. After completing the body scan, relax for a while in silence and stillness, noting how your body feels. Then open your eyes slowly.
+				</summary>
+				</solution>
+				
+				<solution>
+				<id>so3</id>
+				<title>Mindfulness meditation</title>
+				<summary>
+Mindfulness is the ability to remain aware of how you’re feeling right now, your “moment-to-moment” experience—both internal and external. Thinking about the past—blaming and judging yourself—or worrying about the future can often lead to a degree of stress that is overwhelming. But by staying calm and focused in the present moment, you can bring your nervous system back into balance. Mindfulness can be applied to activities such as walking, exercising, eating, or meditation.
+
+1. Choose a secluded place in your home, office, garden, place of worship where you can relax without distractions or interruptions.
+
+2. Sit up with your spine straight, either in a chair or on the floor. You can also try a cross-legged or lotus position.
+
+3. Find a point of focus. This point can be internal – a feeling or imaginary scene – or something external - a flame or meaningful word or phrase that you repeat it throughout your session. You may meditate with eyes open or closed.
+ 
+4. Maintain an observant, noncritical attitude. Don’t worry about distracting thoughts that go through your mind or about how well you’re doing. If thoughts intrude during your relaxation session, don’t fight them. Instead, gently turn your attention back to your point of focus.
+				</summary>
+				</solution>
+				
+				<solution>
+				<id>so4</id>
+				<title>Visualization</title>
+				<summary>
+Visualization, or guided imagery, has been found to provide significant stress reduction benefits, including physically relaxing the body quickly and even helping participants get in touch with deeper levels of wisdom. 
+
+ It requires you to employ not only your visual sense, but also your sense of taste, touch, smell, and sound. When used as a relaxation technique, visualization involves imagining a scene in which you feel at peace, free to let go of all tension and anxiety.
+
+1. Find a quiet, relaxed place. Beginners sometimes fall asleep during a visualization meditation, so you might try sitting up or standing.
+
+2. Close your eyes and let your worries drift away.
+ 
+3. Imagine your restful place. Picture it as vividly as you can—everything you can see, hear, smell, and feel. Visualization works best if you incorporate as many sensory details as possible, using at least three of your senses.
+ 
+4. When visualizing, choose imagery that appeals to you
+
+5. Enjoy the feeling of deep relaxation that envelopes you as you slowly explore your restful place. When you are ready, gently open your eyes and come back to the present.
+
+Don't worry if you sometimes zone out or lose track of where you are during a guided imagery session.  This is normal. 
+				</summary>
+				</solution>
+				
+				
+				<solution>
+				<id>so5</id>
+				<title>Begin yoga for a rejuvenated body</title>
+				<summary>
+Yoga forms that emphasize slow, steady movement, deep breathing, and gentle stretching are best for stress relief.
+				
+1. Satyananda is a traditional form of yoga. It features gentle poses, deep relaxation, and meditation, making it suitable for beginners as well as anyone primarily looking for stress reduction.
+
+2. Hatha yoga is also reasonably gentle way to relieve stress and is suitable for beginners.
+ 
+3. Power yoga, with its intense poses and focus on fitness, is better suited to those looking for stimulation as well as relaxation.
+
+If you’re unsure whether a specific yoga class is appropriate for stress relief, call the studio or ask the teacher.
+				</summary>
+				</solution>
+							
+</solution-class>
+
+<solution-class>
+	<id>sc3</id>
+	<title>Physical Exercise</title>
+	
+	
+				<solution>
+				<id>so1</id>
+				<title>Rhythmic exercise for instant relief</title>
+				<summary>
+Any rhythmic exercise such as running, walking, rowing, or cycling—is most effective at relieving stress when performed with relaxation in mind. As you exercise, focus on the physicality of your body’s movement and how your breathing complements that movement. 
+
+If your mind wanders to other thoughts, gently return to focusing on your breathing and movement. If walking or running, for example, focus on each step—the sensation of your feet touching the ground, the rhythm of your breath while moving, and the feeling of the wind against your face.
+				</summary>
+				</solution>
+				
+				
+				<solution>
+				<id>so2</id>
+				<title>Progressive muscle relaxation</title>
+				<summary>
+Before practicing Progressive Muscle Relaxation, consult with your doctor if you have a history of muscle spasms, back problems, or other serious injuries that may be aggravated by tensing muscles.
+
+1. Loosen your clothing, take off your shoes, and get comfortable. Take a few minutes to relax, breathing in and out in slow, deep breaths.
+
+2. When you’re relaxed and ready to start, shift your attention to your right foot. Take a moment to focus on the way it feels. Slowly tense the muscles in your right foot, squeezing as tightly as you can. Hold for a count of 10.
+
+3. Relax your right foot. Focus on the tension flowing away and the way your foot feels as it becomes limp and loose. Stay in this relaxed state for a moment, breathing deeply and slowly.
+
+4. When you’re ready, shift your attention to your left foot. Follow the same sequence of muscle tension and release.
+
+5. Move slowly up through your body, contracting and relaxing the muscle groups as you go.
+
+The most popular sequence runs as follows:
+					Right foot -> Left foot -> Right calf -> Left calf -> Right thigh ->
+					Left thigh -> Hips and buttocks -> Stomach -> Chest -> Back ->
+					Right arm and hand -> Left arm and hand -> Neck and shoulders -> Face
+				</summary>
+				</solution>
+				
+				<solution>
+				<id>so3</id>
+				<title>Include cardio exercise in routine</title>
+				<summary>
+Activity that raises your heart rate and makes you sweat - is a hugely effective way to lift your mood, increase energy, sharpen focus, and relax both the mind and body.
+
+Go for aerobic exercise like brisk walking, bicycle riding, running, cycling, and swimming. These exercises strengthen your heart and increase your endurance.
+Play some soothing music to avoid the blank ambience.
+				</summary>
+				</solution>
+				
+				<solution>
+				<id>so4</id>
+				<title>Strength training</title>
+				<summary>
+Strength building is beneficial for long term health and well-being. Any exercise like weight lifting or resistance training builds muscle and bone mass, improves balance and prevents falls. It’s one of the best counters to frailty in old age.
+
+1. Join a gym and plan a suitable time so that you are able to maintain the consistency. Mornings are the best for workouts.
+
+2. Consult the gym instructor to learn how to perform effective weight training exercise and complex gestures.
+
+3. Enjoy the exercise time by listening to music, chatting with friends, and varying locations. Exercise around natural beauty, new neighborhoods, and special parks. Above all, avoid workout boredom by mixing it up and trying new routines.
+				</summary>
+				</solution>
+				
+				<solution>
+				<id>so5</id>
+				<title>Flexibility exercises</title>
+				<summary>
+Flexibility exercise like stretching and yoga help prevent injury, enhance range of motion, reduce stiffness, and limit aches and pains.
+
+1. Basic Stretch: This short flexibility routine is great for stretching the hips, glutes, thighs, chest and back and is perfect for your post-workout cool down. 
+
+2. Stretching for office workers: In a seated or standing position, hold the band in a wide grip over the head. Take the arms back just a bit as you lower them down, stretching the chest. Hold for 10-30 seconds. Avoid this move if you have shoulder problems.
+
+3. Seated Stretching: Perform some of the stretching exercises like below:
+
+						-Shoulder Rolls: Roll the shoulders down and back, starting with small circles and working up to larger circles.  Do 10 circles backwards and then repeat forward circles.
+						-Back Stretch: Contract the abs as you tip forward from the hips, bringing the hands down to the floor.  Relax the head down and reach with your fingertips to stretch the back.  Hold for 30 seconds.
+				</summary>
+				</solution>	
+						 
+</solution-class>
+
+<solution-class>
+	<id>sc4</id>
+	<title>Healthy Attitude and perspective</title>
+	
+	
+				<solution>
+				<id>so1</id>
+				<title>Reframe problems</title>
+				<summary>
+Try to view stressful situations from a more positive perspective. Rather than fuming about a traffic jam, look at it as an opportunity to pause and regroup, listen to your favorite radio station, or enjoy some alone time.
+				</summary>
+				</solution>
+
+				<solution>
+				<id>so2</id>
+				<title>Look at the big picture</title>
+				<summary>
+Take perspective of the stressful situation. Ask yourself how important it will be in the long run. Will it matter in a month? A year? Is it really worth getting upset over? If the answer is no, focus your time and energy elsewhere.
+				</summary>
+				</solution>
+				
+				<solution>
+				<id>so3</id>
+				<title>Adjust your standards</title>
+				<summary>
+Perfectionism is a major source of avoidable stress. Stop setting yourself up for failure by demanding perfection. Set reasonable standards for yourself and others, and learn to be okay with “good enough.”
+				</summary>
+				</solution>
+				
+				
+				<solution>
+				<id>so4</id>
+				<title>Don’t try to control the uncontrollable</title>
+				<summary>
+Many things in life are beyond our control— particularly the behavior of other people. Rather than stressing out over them, focus on the things you can control such as the way you choose to react to problems.
+				</summary>
+				</solution>
+				
+				<solution>
+				<id>so5</id>
+				<title>Look for the upside</title>
+				<summary>
+As the saying goes, "What doesn’t kill us makes us stronger." When facing major challenges, try to look at them as opportunities for personal growth. If your own poor choices contributed to a stressful situation, reflect on them and learn from your mistakes.
+				</summary>
+				</solution>
+				
+				<solution>
+				<id>so6</id>
+				<title>Allow yourself to be less than perfect</title>
+				<summary>
+If you hold yourself to impossibly high standards, then you might feel guilty and low if you fail to meet them. Battle this source of self-imposed stress by challenging your negative ways of thinking and being satisfied with self.
+				</summary>
+				</solution>
+				
+				<solution>
+				<id>so7</id>
+				<title>Think outside yourself</title>
+				<summary>
+Ask yourself if you’d say what you’re thinking about yourself to someone else. If not, stop being so hard on yourself. Think about less harsh statements that offer more realistic descriptions.
+				</summary>
+				</solution>
+				
+				<solution>
+				<id>so8</id>
+				<title>Be aware of your critical tendencies</title>
+				<summary>
+It’s a great idea to record your critical thoughts as they pop into your head. Go over those thoughts with calm mind and analyze if you can let go some of the avoidable judgements. 
+
+This will help you become more aware of critical thoughts as they come to you in the future and hence help you avoid them. 
+				</summary>
+				</solution>
+				
+				<solution>
+				<id>so9</id>
+				<title>See the Positive</title>
+				<summary>
+ You can soften your negative tendency by making a conscious effort to notice all that is good with your work and the achievements of others. 
+ 
+ If you notice something you don’t like about yourself, look for five other qualities that you do like. This will balance out your critical focus and become a positive new habit. 
+				</summary>
+				</solution>
+				
+				
+				<solution>
+				<id>so10</id>
+				<title>Learn to Handle Criticism </title>
+				<summary>
+If you tend to look at criticism as an attack, reacting defensively, an attitude change can help. 
+
+Constructive criticism can give you important clues on how to improve your performance, making your less-than-perfect performances into useful stepping stones that lead to excellence. 
+
+If the criticism you’re receiving is pointed or harsh, it’s okay to remind others (and yourself) that mistakes are a great way to learn. 
+				</summary>
+				</solution>
+				
+				<solution>
+				<id>so11</id>
+				<title>Be aware of how others affect you</title>
+				<summary>
+How you feel is affected by the company you keep, whether you’re aware of it or not. We quickly “catch” moods from other people—even from strangers who never speak a word (e.g. the terrified woman sitting by you on the plane; the fuming man in the checkout line). 
+
+Spend less time with people who make you anxious. Is there someone in your life who drags you down or always seems to leave you feeling stressed? Think about cutting back on the time you spend with that person or establish healthier relationship boundaries. For example, you might set certain topics off-limits, if you know that talking about them with that person makes you anxious.
+
+Choose your confidants carefully. Know who to talk to about situations that make you anxious. Some people will help you gain perspective, while others will feed into your worries, doubts, and fears.
+				</summary>
+				</solution>
+				
+				<solution>
+				<id>so12</id>
+				<title>Improving emotional intelligence</title>
+				<summary>
+Emotional intelligence is about communicating with others in ways that draw people to you, overcome differences, repair wounded feelings, and defuse tension and stress.
+
+The five key skills of emotional intelligence
+1.	Realize when you’re stressed, recognize your particular stress response, and become familiar with sensual cues that can rapidly calm and energize you. 
+
+2.	In many cases, what we say is less important than how we say it or the other nonverbal signals we send out, such as eye contact, facial expression, tone of voice and gesture. Work on your nonverbal messages so that it produce a sense of interest, trust, and desire for connection
+
+3.	Develop the capacity to meet challenges with humor. There is no better stress buster than a hearty laugh and nothing reduces stress quicker in the workplace than mutually shared humor. 
+
+4.	Resolving conflict in healthy, constructive ways can strengthen trust between people and diffuse stress and tension. If a conflict can’t be resolved, choose to end the argument, even if you still disagree.
+				</summary>
+				</solution>
+				
+				
+				<solution>
+				<id>so13</id>
+				<title>Don't rush into things</title>
+				<summary>
+Confusion prevents us from understanding the value of this discomforting phase. Much in the same way that a person who breaks up with their significant often rushes too quickly into the next relationship.
+
+Great breakthroughs emerge after times of dissolution, chaos, and confusion. If you jump quickly into the next "thing" or a premature "solution", you may be short-circuiting a critical stage of the (yes, often uncomfortable) creative process.
+
+1. Accept the discomforting phase as a part of life (as you accept your good phase)
+
+2. Analyze contributing factors with a calm and a positive mind.
+
+3. Be patient and control yourself. Don't take any decision in this unstable phase. 				
+				</summary>
+				</solution>
+				
+				<solution>
+				<id>so14</id>
+				<title>Go through the uneasy phase</title>
+				<summary>
+There is no need to fight confusion and uneasiness. Let it be. It's a stage you must pass through on your road to creation. 
+
+Allow confusion to be what it is - the catalyst for new and more elegant solutions in your life.
+ 
+1.	Take a break from the problem at hand
+2.	Get real clear about what's confusing you
+3.	Talk about your confusion with trusted friends or co-workers
+4.	Seek out missing information
+5.	Redefine your problem or challenge
+6.	Pay attention to your dreams and other clues bubbling up from your subconscious
+				</summary>
+				</solution>
+	
+				<solution>
+				<id>so15</id>
+				<title>Let the other person explain</title>
+				<summary>
+Miscommunication contributes to frustrating and mistrusting situations. The better you listen to what a person is saying, the better able you will be to find a resolution. 
+
+Most of the times, we react instantly without listening to what others have to say. Before reacting to any undesirable response, let the other person express his/her situation at that moment. Maybe the other person is having a bad day. Tell yourself to keep the head cool and listen first.
+				</summary>
+				</solution>
+
+
+				<solution>
+				<id>so16</id>
+				<title>Stop over reacting</title>
+				<summary>
+Reacting to someone’s action, which might be irrelevant to the other person, causes a lot of stress in the relationship. Something like if your boyfriend goes out for a movie with another friend, you might feel uncomfortable as you don’t do it. This might be very irrelevant for him but you over reacted instead of accepting him the way he is. 
+
+Other examples are like- Your spouse forgets your birthday, she ignores your call for the 3rd time, he makes you wait sometimes.
+
+Everyone has his or her comfort zone and we tend to react when our near ones do something which hardly fits in that zone. In such cases, try to think rationally keeping the comfort zone aside. 
+
+You will see that the more you accept things (obviously which are rational), the lesser are chances for the stress to develop.
+				</summary>
+				</solution>
+
+				<solution>
+				<id>so17</id>
+				<title>Get out of the expectation circle</title>
+				<summary>
+You may expect others to behave on one way or other and they may do the reverse. But why did you expect so? They are free to create their own psychological programs for themselves. Attachment to these gives you a security feeling and when they are attacked you feel uncomfortable. 
+
+If you have such expectations, come out of these. If someone does not fulfill these, try finding alternate solution yourself to deal with it better next time. For example, if your spouse does not like to go out for dinner you can prepare for a exotic dinner at home and have the same experience. 
+				</summary>
+				</solution>
+
+				<solution>
+				<id>so18</id>
+				<title>Apologize for your mistakes</title>
+				<summary>
+Don’t live with guilt. When you do something that hurts another, apologize and truly mean it. The first time will be difficult. But, when you discover how a well-meant apology solves both internal and external problems, you’ll quickly see that you’re stronger than you’ve ever been before.
+
+You can admit mistakes, apologize for hurting others, relieve the stress associated with guilt and enjoy a happier, healthier life. Your loved ones always want to accept you even with mistakes. They only want that you realize your mistakes well so that the guilty actions are not repeated at any cost.
+
+Admitting mistakes, apologizing for them and promising self not to repeat, makes a person more stable and firm headed.
+				</summary>
+				</solution>
+
+
+				<solution>
+				<id>so19</id>
+				<title>Modify your behavior for the good</title>
+				<summary>
+After realizing your mistakes, promise to self that you will modify your attitude and behavior to rectify the problems within self. Keep a check on your daily habits and be aware of your actions/reactions so that the mistakes are not repeated.
+
+Most of the times, we tend to act wrongly when the situation is out of hand. Instead of reacting in such situations, keep your head cool and accept that this is a bad time and it will soon get over. Strictly monitor your words and actions in such a phase.
+
+Write it down if it helps. Here are some examples:
+"From now on, I will study as hard as I need to before my exams so that I do well."
+				</summary>
+				</solution>
+
+
+				<solution>
+				<id>so20</id>
+				<title>Move on with your life</title>
+				<summary>
+Don't dwell on negative, guilt feelings; they make you feel even worse. Recognize that nobody's perfect and we all make mistakes, and this is one you will not repeat. 
+
+Engage in activities that are positive and affirming, and where you have opportunities to do good; allow yourself to see how the same mistake that made you feel guilty has now resulted in your being a better, more conscientious person.
+				</summary>
+				</solution>
+
+				<solution>
+				<id>so21</id>
+				<title>Educate yourself on your fears</title>
+				<summary>
+Before we can face them, you need to learn more about what makes you fearful of these situations. It could be from a past experience. Something that has caused you to never forget and has made you fearful since then. It's important to educate yourself on all the facts that make you fearful of this situation.
+				</summary>
+				</solution>
+
+				<solution>
+				<id>so22</id>
+				<title>Believe in self and God</title>
+				<summary>
+When we are going through a lot of hardships, we tend to become fearful of our future. This is the time to concentrate on present ongoing tasks and let go the future worries. 
+
+As it is not possible for our mind not to worry about the future, it is best to leave it to the Almighty. Understand that GOD will always reward for your good actions. You just need to fulfill your responsibilities for self and others with a positive energy. It’s all about making the right choices in the present.
+
+Trust me, if you pursue your karma keeping a strong conscience and stable mind, leaving all fears to God, nothing can stop you from leading a happy and contented life. Definitely, there is no denying that everything does end up being okay.
+				</summary>
+				</solution>
+
+				<solution>
+				<id>so23</id>
+				<title>Have a now attitude</title>
+				<summary>
+Don't think about the past and what has happened. You're just going backwards and that's exactly why you can't get over it. Most people don't remember things that have happen in the past about you, so why should you fixate on it yourself? Believe me, it's the impressions you make now that matter, not the ones in the past. 
+
+Have a positive attitude. If you dwell on the past, that's all you'll have is fears. You will never gain the courage to face them.
+				</summary>
+				</solution>
+
+
+				<solution>
+				<id>so24</id>
+				<title>Don’t go by assumptions</title>
+				<summary>
+What you imagine is almost always worse than the truth. So many times the "truth" you see in your mind is only the truth as you believe it to be. 
+
+Fearing certain things only because you assume it to happen that way spoils your way of thinking. Control your tendency to assume by trusting people around you and bringing in more positivity. 
+
+It is always good to clear any negative assumption by discussing it rather than building it up inside. But don’t make it a habit as the other person might get irritated with your negative thinking. 
+				</summary>
+				</solution>
+
+
+<solution>
+				<id>so25</id>
+				<title>Cognitive Therapy</title>
+				<summary>
+Many aspects of a stressful experience originate in the mind: what you think of as stressful is experienced as stressful. Feeling out of control, not knowing what to expect, and negative ways of thinking can all create stress, or exacerbate stress that’s already felt. 
+
+1. Be Realistic
+Know what to expect in terms of healing time and recovery. Then, keep in mind that everyone’s different. It’s important to know if you’re not healing at the expected rate (so you can discuss this with your doctor), and it’ll help your emotional state if recovery seems to be taking longer than you’d like, but is within the realm of what is to be expected.
+
+2. Stay Positive
+If you focus your attention mostly on the negatives of your experience, you’ll notice them more and more, and perhaps not notice the positives as much. If you actively seek out positives in your experience (challenge yourself to find one thing per hour for which you can be grateful, for example), you’ll see them more and more. 
+
+3. Watch Your Language
+Be careful--the language you use can color your experience. The regular adjectives you use to describe your feelings can actually change the level of stress you feel! For example, if you label something ‘excruciating’, you may actually perceive it as more painful than if you keep referring to it as ‘uncomfortable’. Likewise, if you label something in a positive way, you may feel more positive about it.
+				</summary>
+				</solution>
+
+</solution-class>
+
+
+<solution-class>
+	<id>sc5</id>
+	<title>Helpful habits and sound lifestyle</title>
+	
+				<solution>
+				<id>so1</id>
+				<title>Avoid people who stress you out</title>
+				<summary>
+If someone consistently causes stress in your life and you can’t turn the relationship around, limit the amount of time you spend with that person or end the relationship entirely. 
+				</summary>
+				</solution>
+	
+				<solution>
+				<id>so2</id>
+				<title>Pare down your to-do list</title>
+				<summary>
+Analyze your schedule, responsibilities, and daily tasks. If you’ve got too much on your plate, distinguish between the “shoulds” and the “musts.” Drop tasks that aren’t truly necessary to the bottom of the list or eliminate them entirely. 
+				</summary>
+				</solution>
+	
+				<solution>
+				<id>so3</id>
+				<title>Be willing to compromise</title>
+				<summary>
+When you ask someone to change their behavior, be willing to do the same. If you both are willing to bend at least a little, you’ll have a good chance of finding a happy middle ground. 
+				</summary>
+				</solution>
+				
+				<solution>
+				<id>so4</id>
+				<title>Anticipate and confront</title>
+				<summary>
+Don’t take a back seat in your own life. Deal with problems head on, doing your best to anticipate and prevent them. If you’ve got an exam to study for and your chatty room mate just got home, say up front that you only have five minutes to talk. 
+
+Face your most dangerous fears in small steps. Tell your close friends about your small achievements. Consistent appreciation from your friends and family will help you conquer it completely and you will be surprised to see the result.
+				</summary>
+				</solution>
+				
+				<solution>
+				<id>so5</id>
+				<title>Manage your time better</title>
+				<summary>
+Poor time management can cause a lot of stress. When you’re stretched too thin and running behind, it’s hard to stay calm and focused. But if you plan ahead and make sure you don’t overextend yourself, you can alter the amount of stress you’re under. 
+				</summary>
+				</solution>
+
+				<solution>
+				<id>so6</id>
+				<title>Share your feelings</title>
+				<summary>
+Talk to a trusted friend or make an appointment with a therapist. Expressing what you’re going through, even if there’s nothing you can do to alter the stressfull situation. 
+				</summary>
+				</solution>
+				
+				<solution>
+				<id>so7</id>
+				<title>Learn to forgive</title>
+				<summary>
+Accept the fact that we live in an imperfect world and that people make mistakes. Let go of anger and resentments. Free yourself from negative energy by forgiving and moving on. 
+				</summary>
+				</solution>
+
+							
+				<solution>
+				<id>so9</id>
+				<title>Cultivate supportive relationships </title>
+				<summary>
+Getting the support you need plays a big role in lifting up your mood. Maintaining your close relationships and social activities are important now.
+
+1. Turn to trusted friends and family members. Share what you’re going through with the people you love and trust. Ask for the help and support you need.
+ 
+2. Try to keep up with social activities even if you don’t feel like it.
+ 
+3. Have lunch or coffee with a friend.
+
+4. Accompany someone to the movies, a concert, or a small get-together.
+
+5. Call or email an old friend.
+
+6. Confide in a counselor, therapist, or clergy member.
+
+7. Pets can bring joy and companionship into your life and help you feel less isolated. Caring for a pet can also get you outside of yourself and you a sense of being needed—both powerful antidotes to depression. 
+				</summary>
+				</solution>
+
+				<solution>
+				<id>so10</id>
+				<title>Socialize with positive people</title>
+				<summary>
+Notice how people who always look on the bright side deal with challenges, even minor ones, like not being able to find a parking space. Then consider how you would react in the same situation. Even if you have to pretend, try to adopt their optimism and persistence in the face of difficulty. 
+				</summary>
+				</solution>
+
+				<solution>
+				<id>so11</id>
+				<title>Keep a "negative thought log." </title>
+				<summary>
+Whenever you experience a negative thought, jot down the thought and what triggered it in a notebook. Review your log when you’re in a good mood. Consider if the negativity was truly warranted. 
+
+Ask yourself if there’s another way to view the situation. For example, let’s say your boyfriend was short with you and you automatically assumed that the relationship was in trouble. But maybe he’s just having a bad day. 
+				</summary>
+				</solution>
+				
+				<solution>
+				<id>so12</id>
+				<title>Take care of yourself</title>
+				<summary>
+This includes following a healthy lifestyle, learning to manage stress, setting limits on what you’re able to do, adopting healthy habits, and scheduling fun activities into your day.
+
+1. Aim for 8 hours of sleep. Whether you’re sleeping too little or too much, your mood suffers. Get on a better sleep schedule by learning healthy sleep habits.
+
+2. Expose yourself to a little sunlight every day. Take a short walk outdoors, have your coffee outside, enjoy an al fresco meal, people-watch on a park bench, or sit out in the garden.
+  
+3. Keep stress in check. Figure out all the things in your life that are stressing you out. Examples include: work overload, unsupportive relationships, taking on too much, or health problems. Once you’ve identified your stressors, you can make a plan to avoid them or minimize their impact.
+
+4. Practice relaxation techniques. Try yoga, deep breathing, progressive muscle relaxation, or meditation.
+				</summary>
+				</solution>
+
+				<solution>
+				<id>so14</id>
+				<title>Do things you enjoy</title>
+				<summary>
+While you can’t force yourself to have fun or experience pleasure, you can choose to do things that you used to enjoy. 
+Push yourself to do things, even when you don’t feel like it. You might be surprised at how much better you feel once you’re out in the world.
+
+Try and implement a few of these ideas each day, even if you’re feeling good.
+ 
+1. Spend some time in nature
+2. List what you like about yourself
+3. Read a good book or watch a funny movie or TV show
+4. Express yourself creatively through music, art, or writing. 
+5. Go out with friends. Take a day trip to a museum, the mountains, or the ballpark.
+6. Eat a healthy, mind-boosting diet.
+				</summary>
+				</solution>
+				
+				
+				<solution>
+				<id>so15</id>
+				<title>Involve in physical activities</title>
+				<summary>
+Physical activity plays a key role in reducing and preventing the effects of stress. Make time for at least 30 minutes of exercise, three times per week. But you can start small. Short 10-minute bursts of activity can have a positive effect on your mood.
+
+The following exercise tips offer a powerful prescription for boosting mood:
+
+1. Aerobic exercise.	
+
+2. Do some heavy work outs like fast running, strength training and other cardio.
+
+3. Rhythmic exercise like walking, swimming, dancing, stationery biking, are good choices.
+
+4. Add a mind-body element. Activities such as yoga rest your mind and pump up your energy. 
+
+5. Take your dog for a walk.
+
+				</summary>
+				</solution>
+
+				<solution>
+				<id>so16</id>
+				<title>Eat a healthy diet</title>
+				<summary>
+Well-nourished bodies are better prepared to cope with stress, so be mindful of what you eat. Start your day right with breakfast, and keep your energy up and your mind clear with balanced, nutritious meals throughout the day.
+
+Think of some of your mouth watering dishes and enjoy them on a weekend. 
+				</summary>
+				</solution>
+								
+				<solution>
+				<id>so17</id>
+				<title>Reduce caffeine and sugar</title>
+				<summary>
+The temporary "highs" caffeine and sugar provide often end in with a crash in mood and energy. By reducing the amount of coffee, soft drinks, chocolate, and sugar snacks in your diet, you’ll feel more relaxed and you’ll sleep better.
+				</summary>
+				</solution>
+
+				<solution>
+				<id>so18</id>
+				<title>Avoid alcohol, cigarettes, and drugs</title>
+				<summary>
+Self-medicating with alcohol or drugs may provide an easy escape from stress, but the relief is only temporary. Don’t avoid or mask the issue at hand; deal with problems head on and with a clear mind.
+				</summary>
+				</solution>
+				
+				
+				<solution>
+				<id>so19</id>
+				<title>Eat a healthy, mood-boosting diet</title>
+				<summary>
+What you eat has a direct impact on the way you feel. Aim for a balanced diet of protein, complex carbohydrates, fruits and vegetables.
+
+1. Don’t skip meals. Aim to eat something at least every 3-4 hours.
+
+2. Minimize sugar and refined carbs. Try to avoid sugary snacks, baked goods, or comfort foods such as pasta or french fries. 
+
+3. Foods such as baked potatoes, whole-wheat pasta, brown rice, oatmeal, whole grain breads, and bananas can boost energy levels.
+
+4. Deficiencies in B vitamins can trigger depression. To get more, take a B-complex vitamin supplement or eat more citrus fruit, leafy greens, beans, chicken, and eggs.
+
+5. To stabilize the mood, go for foods like sea food, vegetable oils and walnuts, flax, soybeans, and tofu.
+				</summary>
+				</solution>
+
+				<solution>
+				<id>so20</id>
+				<title>Make time for fun and relaxation</title>
+				<summary>
+Don’t get so caught up in the hustle and bustle of life that you forget to take care of your own needs. Nurturing yourself is a necessity, not a luxury.
+
+1. Include rest and relaxation in your daily schedule. Take a break from all responsibilities and recharge your batteries. Try yoga, deep breathing, progressive muscle relaxation, or meditation.
+
+2. Spend time with positive people who enhance your life. A strong support system will buffer you from the negative effects of stress.
+
+3. Make time for leisure activities that bring you joy, whether it be star gazing, playing the piano, or working on your bike.
+
+4. Keep your sense of humor. This includes the ability to laugh at yourself. The act of laughing helps your body fight stress in a number of ways.
+				</summary>
+				</solution>
+				
+				
+				<solution>
+				<id>so21</id>
+				<title>Turn on the Music</title>
+				<summary>
+Listening to soft music while trying to go to bed can help enormously; particularly if the music consists of special sounds and rhythms which are designed to improve sleep. 
+
+Believe it or not, numerous studies indicated that 90% of patients whom had listened to 30 minutes of music before going to sleep had little or no trouble getting into a deep sleep and remaining asleep.
+				</summary>
+				</solution>
+				
+				<solution>
+				<id>so22</id>
+				<title>Normal Pattern of Sleep</title>
+				<summary>
+If you ordinarily go to bed at about 11:00 pm in the evening, then be sure you ALWAYS go to bed around that time. 
+
+By keeping your body hard-wired to a particular sleeping pattern, it's going to become much easier to fall asleep once your head hits the pillow. 
+
+When your usual bed-time comes a'knockin', both your mind and body will come to the conclusion that it is time for rest.
+				</summary>
+				</solution>
+				
+				
+				<solution>
+				<id>so24</id>
+				<title>Drink Herbal Tea</title>
+				<summary>
+There are many herbal teas you can use that have calming and relaxing effects: teas like passionflower, valerian, lavender, roseflower, chamomile, and so on. 
+
+Drink these herbal teas when going to bed and you may find that sleep comes a lot more easily.
+				</summary>
+				</solution>
+				
+				
+				<solution>
+				<id>so25</id>
+				<title>Alter Your Self-Talk</title>
+				<summary>
+Those who have a critical voice in their head, they keep telling themselves that their work isn’t good enough, they’re not trying hard enough, and they’re not giving full efforts. 
+
+To overcome this, you need to work on changing this little voice. By altering your self talk and making it sound more positive and light, you can go a long way toward enjoying life more and gaining an increased appreciation for yourself and your work.
+				</summary>
+				</solution>
+
+
+				<solution>
+				<id>so26</id>
+				<title>Take Baby steps to solve the complex</title>
+				<summary>
+Few of us tend to set goals of unreasonable excellence with no learning curve. 
+
+These goals tend to be unrealistic and cause problems by being so rigidly demanding and leaving little room for error. 
+
+You can set bite-sized goals for yourself and reward yourself when you achieve them, you’ll tend to be more confident about yourself.
+				</summary>
+				</solution>
+
+				<solution>
+				<id>so27</id>
+				<title>Enjoy the Slow Progress</title>
+				<summary>
+One important way to recover from perfectionism is to begin focusing more on the process of reaching toward a goal, rather than just focusing on the goal itself. 
+
+You can also enjoy the process of reaching a goal by getting involved with a group who is also trying to achieve the same goal you’re after, or journaling about how you feel and what you learn as you reach toward your goal. 
+
+If you find you don’t achieve perfection, you can then reflect back and see all that you’ve gained in just working toward a worthy goal, assessing and appreciating the gains you did make in the process. 
+				</summary>
+				</solution>
+				
+				<solution>
+				<id>so28</id>
+				<title>Repair self and Restore surroundings</title>
+				<summary>
+1.	Repair Yourself. Practice relaxation, meditation or any releasing technique so that all built up stress energy is either released or dissolved without disturbing yourself. Read humorous books, watch cartoons or any humorous films etc.
+
+2.	Repair Others and Your Relationships With Them. Apologize if it is appropriate. Do something to recharge your relationship with the persons affected by your temper.
+				</summary>
+				</solution>
+				
+
+				<solution>
+				<id>so29</id>
+				<title>Live Each Day as if it is Your Last</title>
+				<summary>
+This saying may be overused, but it holds a fundamental truth. Life is short and it is much better spent positively than negatively. Realize that if you spend all your time getting angry, you will miss out on the many joys and surprises that life has to offer.				</summary>
+				</solution>
+
+
+				<solution>
+				<id>so30</id>
+				<title>Pursue your unexplored dreams</title>
+				<summary>
+Note down your unfulfilled wishes and mark the feasible ones. Make a small group of known acquaintances and start your journey to any peaceful and calm place, for example, a forest, mountain, or any beautiful valley you have always wanted to visit.
+
+Take the initiative to explore the world including the nature, adventure and people living in it. The more you know and feel the outer world, the more confidence you will feel about your own self.
+				</summary>
+				</solution>
+
+				<solution>
+				<id>so31</id>
+				<title>Join a class of your interest</title>
+				<summary>
+Whether it’s an art class, a cooking class, an exercise class, or a class at your local community college, joining a class automatically exposes you to a group of people who share at least one of your interests. 
+
+It can also provide a sense of belonging that comes with being part of a group. This can stimulate creativity, give you something to look forward to during the day, and help stave off loneliness.				</summary>
+				</solution>
+
+
+				<solution>
+				<id>so32</id>
+				<title>Strengthen Existing Relationships</title>
+				<summary>
+You probably already have people in your life that you could get to know better, or connections with family that could be deepened. If so, why not call friends more often, go out with them more, and find other ways to enjoy your existing relationships and strengthen bonds?
+
+Call up old friends and arrange for a get-together at a common place. Talk out your interests and hobbies with others and get to know theirs. 
+				</summary>
+				</solution>
+
+
+				<solution>
+				<id>so33</id>
+				<title>Live in present</title>
+				<summary>
+Instead of feeling low about the bad events all the time, come out of it and see the things around you. Live in the present surroundings feeling each bit of it. 
+
+1.	Take interest in your work assignments. During breaks, talk to your colleagues about general affairs. It will definitely add on to your current database.
+
+2.	Call up friends more often and talk about light stuff. Plan out short trips like going to an amusement park, a movie or theatre shows. Call up old friends and arrange for a get-together at a common place.
+
+3.	At home, spend time with family keep the atmosphere light. Plan out some new initiative like putting new colors to the walls or buying modern furniture
+				</summary>
+				</solution>
+
+
+				<solution>
+				<id>so34</id>
+				<title>Do something totally selfless</title>
+				<summary>
+The best way to overcome sadness and depression is to be of service. Serve food to the homeless, visit shut-ins in your neighborhood or go read to seniors or children in the hospital. Everyone will benefit from your actions.
+				</summary>
+				</solution>
+				
+				
+				<solution>
+				<id>so35</id>
+				<title>Join a good support group</title>
+				<summary>
+There are all kinds of support groups available for people suffering from various conditions, and if yours is rare, you may find benefits with a more general support group for those dealing with serious illnesses. 
+
+This provides the benefit of connecting with others who are experiencing feelings that are similar to yours at this time. Also, getting to talk about your experience in a welcoming environment may also help a lot.
+
+				</summary>
+				</solution>
+
+
+					<solution>
+				<id>so36</id>
+				<title>Maintain a journaling practice</title>
+				<summary>
+Processing your feelings on paper, as well as planning new courses of action, has been shown to have healing properties, and can help change your outlook as well. 
+
+Journaling allows people to clarify their thoughts and feelings, thereby gaining valuable self-knowledge. 
+
+It’s also a good problem-solving tool; oftentimes, one can hash out a problem and come up with solutions more easily on paper.
+
+You can even start blogging your stress experiences to get advices from people who have faced similar troubles.
+				</summary>
+				</solution>
+</solution-class>
+
+<solution-class>
+	<id>sc6</id>
+	<title>Worry and anxiety help</title>
+	
+				<solution>
+				<id>so1</id>
+				<title>Postpone your worries</title>
+				<summary>
+Postponing worrying is effective because it breaks the habit of dwelling on worries in the present moment. As you develop the ability to postpone your anxious thoughts, you’ll start to realize that you have more control over your worrying than you think.
+  
+1. Create a "worry period". Choose a set time and place for worrying. It should be the same every day (e.g. In the living room from 5:00 to 5:20 p.m.) and early enough that it won’t make you anxious right before bedtime. During your worry period, you’re allowed to worry about whatever’s on your mind. The rest of the day, however, is a worry-free zone.
+
+2. Postpone your worry. If an anxious thought or worry comes into your head during the day, make a brief note of it on paper and postpone it to your worry period.
+ 
+3. Go over your "worry list" during the worry period. If the thoughts are still bothering you, allow yourself to worry about them, but only for the amount of time you’ve specified for your worry period. If the worries don’t seem important any more, cut your worry period short and enjoy the rest of your day.
+				</summary>
+				</solution>
+				
+				<solution>
+				<id>so2</id>
+				<title>Ask yourself if the problem is solvable</title>
+				<summary>
+If a worry pops into your head, start by asking yourself whether the problem is something you can actually solve. If the worry is solvable, start brainstorming. 
+
+Make a list of all the possible solutions you can think of. Try not to get too hung up on finding the perfect solution. 
+
+Focus on the things you have the power to change, rather than the circumstances or realities beyond your control. After you’ve evaluated your options, make a plan of action. 
+
+Once you have a plan and start doing something about the problem, you’ll feel much less worried.
+				</summary>
+				</solution>
+				
+				<solution>
+				<id>so3</id>
+				<title>Accept uncertainty</title>
+				<summary>
+The inability to tolerate uncertainty plays a huge role in anxiety and worry. Some people can’t stand doubt or unpredictability. Focusing on worst-case scenarios won’t keep bad things from happening. It will only keep you from enjoying the good things you have in the present. So if you want to stop worrying, start by tackling your need for certainty and immediate answers. 
+
+Ask yourself the following questions and write down your responses. 
+1. Is it possible to be certain about everything in life?
+
+2. What are the advantages of requiring certainty, versus the disadvantages? Or, how is needing certainty in life helpful and unhelpful?
+
+3. Do you tend to predict bad things will happen just because they are uncertain? Is this a reasonable thing to do? What is the likelihood of positive or neutral outcomes?
+				</summary>
+				</solution>
+				
+				<solution>
+				<id>so4</id>
+				<title>Challenge anxious thoughts</title>
+				<summary>
+If you suffer from chronic anxiety and worries, chances are you look at the world in ways that make it seem more dangerous than it really is. For example, you may overestimate the possibility that things will turn out badly, jump immediately to worst-case scenarios, or treat every negative thought as if it were fact. 
+Often, they’re part of a lifelong pattern of thinking that’s become so automatic you’re not even completely aware of it. Start by identifying the frightening thought, being as detailed as. Then, instead of viewing your thoughts as facts, treat them as hypotheses you’re testing out. As you examine and challenge your worries and fears, you’ll develop a more balanced perspective.
+
+Question the worried thought:
+1.	What’s the evidence that the thought is true? That it’s not true?
+2.	Is there a more positive, realistic way of looking at the situation?
+3.	If the probability is low, what are some more likely outcomes?
+4.	Is the thought helpful? How will worrying about it help me and how will it hurt me?
+5.	What would I say to a friend who had this worry?
+				</summary>
+				</solution>
+
+				<solution>
+				<id>so5</id>
+				<title>Practice mindfulness</title>
+				<summary>
+Worrying is usually focused on the future—on what might happen and what you’ll do about it. The centuries-old practice of mindfulness can help you break free of your worries by bringing your attention back to the present.
+
+Acknowledge and observe your anxious thoughts and feelings. Don’t try to ignore, fight, or control them like you usually would. Instead, simply observe them as if from an outsider’s perspective, without reacting or judging.
+
+Let your worries go. Notice that when you don’t try to control the anxious thoughts that pop up, they soon pass, like clouds moving across the sky. It’s only when you engage your worries that you get stuck.
+
+Stay focused on the present. Pay attention to the way your body feels, the rhythm of your breathing, your ever-changing emotions, and the thoughts that drift across your mind. If you find yourself getting stuck on a particular thought, bring your attention back to the present moment.
+				</summary>
+				</solution>
+				
+
+				
+				
+</solution-class>	
+				
+
+<solution-class>
+	<id>sc7</id>
+	<title>Depression self-help</title>
+	
+				<solution>
+				<id>so1</id>
+				<title>Challenge negative thinking</title>
+				<summary>
+Depression puts a negative spin on everything, including the way you see yourself, the situations you encounter, and your expectations for the future.
+
+But you can’t break out of this pessimistic mind frame by "just thinking positive". The trick is to replace negative thoughts with more balanced thoughts.
+
+Ways to challenge negative thinking:
+1. Think outside yourself. 
+2. Allow yourself to be less than perfect. 
+3. Socialize with positive people. 
+4. Keep a “negative thought log."
+				</summary>
+				</solution>
+
+				<solution>
+				<id>so2</id>
+				<title>Know when to get additional help</title>
+				<summary>
+If you find your depression getting worse and worse, seek professional help. Needing additional help doesn’t mean you’re weak. Sometimes the negative thinking in depression can make you feel like you’re a lost cause, but depression can be treated and you can feel better!
+
+Don’t forget about these self-help tips, though. Even if you’re receiving professional help, these tips can be part of your treatment plan, speeding your recovery and preventing depression from returning.
+				</summary>
+				</solution>
+
+</solution-class>
+
+
+<solution-class>
+	<id>sc8</id>
+	<title>Stress at work</title>
+	
+				<solution>
+				<id>so1</id>
+				<title>Build healthy self-esteem.</title>
+				<summary>
+Prepare a list of your abilities and distinctive qualities. Look at this list whenever you feel the urge to compare yourself with your colleagues. Develop a healthy pride in your capabilities. Develop your specific skills in areas where you truly enjoy working.				
+			</summary>
+				</solution>
+				
+				<solution>
+				<id>so2</id>
+				<title>Cheer your colleagues' accomplishments</title>
+				<summary>
+Find genuine things to appreciate in your colleagues. Offer praise and compliments when speaking to them directly and when interacting with other colleagues. Appreciating others helps you to overcome the feeling that they are a threat and makes you feel more positive toward them.
+				</summary>
+				</solution>
+
+
+				<solution>
+				<id>so3</id>
+				<title>Collaborate with your colleagues</title>
+				<summary>
+Ask your supervisor to assign you to work on the same project. Focus on partnering with your colleagues to achieve the project goal. 
+
+Motivational speaker Avery M. Henderson says that working to promote the organizational objectives sets up a sense of "coopetition" -- cooperation between competitors -- that is healthier than personal self-promotion.
+				</summary>
+				</solution>
+
+
+				<solution>
+				<id>so4</id>
+				<title>Choose the company of contented people</title>
+				<summary>
+Pick up their attitude of finding joy in what you have rather than hankering for more. Avoid interaction with people who have a competitive streak because this fuels your feelings of competition.
+				</summary>
+				</solution>
+
+
+				<solution>
+				<id>so5</id>
+				<title>Prioritize and Organize</title>
+				<summary>
+When job and workplace stress threatens to overwhelm you, there are simple steps you can take to regain control over yourself and the situation. 
+
+1.	Create a balanced schedule. Try to find a balance between work and family life, social activities and solitary pursuits, daily responsibilities and downtime.
+
+2.	Don’t over-commit yourself.If you've got too much on your plate, distinguish between the "shoulds" and the "musts." Drop tasks that aren't truly necessary.
+
+3.	Plan regular breaks. Make sure to take short breaks throughout the day to take a walk or sit back and clear your mind.
+
+4.	Break projects into small steps. If a large project seems overwhelming, make a step-by-step plan.
+
+5.	Delegate responsibility. Let go of the desire to control or oversee every little step. You’ll be letting go of unnecessary stress in the process.
+				</summary>
+				</solution>
+
+				<solution>
+				<id>so6</id>
+				<title>Reduce job stress at manager level</title>
+				<summary>
+There are a number of organizational changes that managers and employers can make to reduce workplace stress. These include:
+
+1.	Improve communication. Share information with employees to reduce uncertainty about their jobs and futures. Clearly define employees’ roles and responsibilities.
+
+2.	Consult your employees. Give workers opportunities to participate in decisions that affect their jobs. Be sure the workload is suitable to employees’ abilities and resources. Praise good work performance. Provide opportunities for career development.
+
+3.	Cultivate a friendly social climate. Provide opportunities for social interaction among employees. Establish a zero-tolerance policy for harassment.
+				</summary>
+				</solution>
+
+
+</solution-class>
+
+
+<solution-class>
+	<id>sc9</id>
+	<title>Anger self help</title>
+	
+				<solution>
+				<id>so1</id>
+				<title>Understanding Anger</title>
+				<summary>
+"Anger is temporary madness." 
+You become angry because something or someone has done something against your expectations. Keep control of your expectations from others and find your happiness within self.
+
+If your ego is hurt you may become angry. Understand that ego itself is a disease. Dissolve your ego as far as possible. If you have inferiority complex, or have a very deficient ego you will lose your temper very easily.
+				
+				</summary>
+				</solution>
+				
+				<solution>
+				<id>so2</id>
+				<title>Immediate steps to deal with it</title>
+				<summary>
+This is the most difficult stage to manage because you are the person who is angry and you are the person who is to manage yourself. Try one or more of the following:
+
+1.	As soon as you are in control withdraw yourself from the situation to avoid irreversible damage to self, others, relationships, and the environment.
+
+2.	Breathe deeply. Inhale deeply and hold for a second or two. Then exhale deeply. Repeat a few times.
+
+3.	Become aware that you are angry. Just observe yourself.
+
+4.	If possible, divert your attention to something else that can relax you; like humorous films, calming music, watering your garden, going to beach or park or the like.
+
+5.	Get into the company of persons you love or who love you and understand you. Speak out to them, if possible.
+
+6.	If you have love for children, their presence can pacify you. Even pets can sometimes pacify you.
+
+7.	Laugh it out, if you can, by perceiving it in a humorous way.
+
+8.	Perceive it creatively and constructively and take it as an opportunity to know yourself, your anger patterns and the situation or other people involved.
+
+9.	As far as possible do not swear to yourself or shout like: ‘ I will teach you/him/her a lesson. I will show you/him/her’ etc. This will act as a program and will be stored as negative energy.
+				</summary>
+				</solution>
+
+				<solution>
+				<id>so3</id>
+				<title>Build Trust</title>
+				<summary>
+Angry people can be cynical people. They believe that others are going to do something on purpose to annoy or frustrate them even before it happens. 
+
+If you can build trust in people you will be less likely to become angry with them when something does go wrong and more likely to attribute the problem to something other than a malicious intent.
+				</summary>
+				</solution>
+				
+</solution-class>
+
+
+<solution-class>
+	<id>sc10</id>
+	<title>guilt self help</title>
+	
+				<solution>
+				<id>so1</id>
+				<title>Identify whether or not you should feel guilty</title>
+				<summary>
+Guilt is the signal that you have a working conscience, and some guilt is appropriate. If you've done something wrong, it's good that you feel guilty - if you don't, it's likely you are a sociopath. If your guilt is from a wrong action on your part, set about making it right so that you avoid guilt's nasty relative: Shame.				
+				</summary>
+				</solution>
+				
+				<solution>
+				<id>so2</id>
+				<title>Don’t let others take control</title>
+				<summary>
+Realize that many people who attempt to play on your guilt are controlling or manipulating you - true friends with your best interests at heart will not try to make you feel more guilty. 
+
+They will offer you the opportunity to confess and unburden yourself, and help you make amends, then bolster you positively; they will not use your guilt as a weapon against you.
+
+Don't let people make a big deal about what you did, just handle it in an effective manner that will make you feel better.
+
+Write down an apology letter to the person. Looking at it makes you feel better. When you're done, rip it up for full effect to know that you're guilt-free.
+				</summary>
+				</solution>
+</solution-class>
+
+
+<solution-class>
+	<id>sc11</id>
+	<title>Relationship self help</title>
+	
+				<solution>
+				<id>so1</id>
+				<title>Tips for managing and resolving conflict</title>
+				<summary>
+Managing and resolving conflict requires the ability to quickly reduce stress and bring your emotions into balance.
+ 
+1.	Listen for what is felt as well as said. When we listen we connect more deeply to our own needs and emotions, and to those of other people. Listening in this way also strengthens us, informs us, and makes it easier for others to hear us.
+
+2.	Make conflict resolution the priority rather than winning or "being right." Maintaining and strengthening the relationship, rather than “winning” the argument, should always be your first priority. Be respectful of the other person and his or her viewpoint.
+
+3.	Focus on the present. If you’re holding on to old hurts and resentments, your ability to see the reality of the current situation will be impaired. Rather than looking to the past and assigning blame, focus on what you can do in the here-and-now to solve the problem.
+
+4.	Pick your battles. Conflicts can be draining, so it’s important to consider whether the issue is really worthy of your time and energy. Maybe you don't want to surrender a parking space if you’ve been circling for 15 minutes. But if there are dozens of spots, arguing over a single space isn’t worth it.
+
+5.	Be willing to forgive. Resolving conflict is impossible if you’re unwilling or unable to forgive. Resolution lies in releasing the urge to punish, which can never compensate for our losses and only adds to our injury by further depleting and draining our lives.
+
+6.	Know when to let something go. If you can’t come to an agreement, agree to disagree. It takes two people to keep an argument going. If a conflict is going nowhere, you can choose to disengage and move on.
+				</summary>
+				</solution>
+				
+				<solution>
+				<id>so2</id>
+				<title>Practice healthy Nonverbal communication </title>
+				<summary>
+Nonverbal communication is conveyed by emotionally-driven facial expressions, posture, gesture, pace, tone and intensity of voice.
+
+When you’re in the middle of a conflict, paying close attention to the other person’s nonverbal signals may help you figure out what the other person is really saying, respond in a way that builds trust, and get to the root of the problem. Simple nonverbal signals such as a calm tone of voice, a reassuring touch, or an interested or concerned facial expression can go a long way toward relaxing a tense exchange.
+
+Your ability to accurately read another person depends on your own emotional awareness. The more aware you are of your own emotions, the easier it will be for you to pick up on the wordless clues that reveal what others are feeling.
+				</summary>
+				</solution>
+
+
+				<solution>
+				<id>so3</id>
+				<title>Use Humor judiciously</title>
+				<summary>
+Joy is a deceptively powerful resource. Studies show that you can surmount adversity, as long as you continue to have moments of joy. Humor plays a similar role when the challenge you're facing is conflict.
+
+Humor can help you say things that might otherwise be difficult to express without creating a flap. However, it’s important that you laugh with the other person, not at them. When humor and play is used to reduce tension and anger, reframe problems, and put the situation into perspective, the conflict can actually become an opportunity for greater connection and intimacy.
+				</summary>
+				</solution>
+
+
+				<solution>
+				<id>so4</id>
+				<title>Never stop communicating</title>
+				<summary>
+Good communication is a fundamental part of a healthy relationship. When people stop communicating well, they stop relating well, and times of change or stress can really bring out disconnect. 
+
+1.	Learn your partner’s emotional cues. Take some time to learn your partner’s responses, and be sure to communicate your own as well. For example, one person might find a brief massage after a stressful day a loving mode of communication—while another might just want to talk over a hot cup of tea.
+
+2.	Express yourself well. If you’ve known each other for a while, you may assume that your partner has a pretty good idea of what you are thinking and what you need. However, your partner is not a mind-reader. While your partner may have some idea, it is much healthier to express your needs directly to avoid any confusion. 
+
+What’s more, people change, and what you needed and wanted five years ago, for example, may be very different now. Getting in the habit of expressing your needs helps you weather difficult times, which otherwise may lead to increasing resentment, misunderstanding and anger.
+				</summary>
+				</solution>
+
+
+				<solution>
+				<id>so5</id>
+				<title>Resolve the conflict respectfully</title>
+				<summary>
+Conflict is inevitable in any relationship, but to keep a relationship strong, both people need to feel they’ve been heard. The goal is not to win but to resolve the conflict with respect and love.
+1.	Make sure you are fighting fair.
+2.	Don’t attack someone directly but use "I" statements to communicate how you feel.
+3.	Don’t drag old arguments into the mix.
+4.	Keep the focus on the issue at hand, and respect the other person.
+				</summary>
+				</solution>
+
+</solution-class>
+
+
+<solution-class>
+	<id>sc12</id>
+	<title>Financial pressure self help</title>
+	
+				<solution>
+				<id>so1</id>
+				<title>Make a Plan</title>
+				<summary>
+Set a budget and a time each week to sit down and discuss the budget. This will help you and your spouse stay focused on any possible problems with the new budget and resolving those problems.
+				</summary>
+				</solution>
+				
+				<solution>
+				<id>so2</id>
+				<title>Share Financial Responsibilities </title>
+				<summary>
+Both spouses should be involved in marital finances. In this day and age, it normally takes two incomes to keep a family afloat financially. One spouse may earn a higher income than the other may but this does not mean that both are not equally responsible for making sure all financial responsibilities are met.
+
+Sharing in the responsibilities equally keeps one spouse from feeling over-burdened which, in turn lessens stress that can negatively affect the marriage. So, if you are a stay at home mom or a working wife or husband whose income is the smallest please, don’t think you don’t bare as much financial responsibility to your marriage.
+				</summary>
+				</solution>
+
+
+				<solution>
+				<id>so3</id>
+				<title>Reject thoughts of failure</title>
+				<summary>
+Never believe that a financial challenge is a sign of personal failure or weakness. Whatever your situation, remind yourself that it’s nothing that millions of other people haven’t struggled with. 
+
+Heck, some of the wealthiest people—like Donald Trump—have gone through serious financial rough patches. You and your family can grow stronger by proactively working through your money issues.
+				</summary>
+				</solution>
+
+
+				<solution>
+				<id>so4</id>
+				<title>Reduce your debt</title>
+				<summary>
+If debt is stressing you out, get serious about creating a spending plan so you can free up more discretionary money and pay it off as quickly as possible. Try to keep the total of all your monthly debt obligations below 40% of your gross monthly income.
+				</summary>
+				</solution>
+
+
+				<solution>
+				<id>so5</id>
+				<title>Choose to build wealth</title>
+				<summary>
+Using your money to create a secure financial future, instead of spending it on material possessions, will give you a feeling of freedom that expensive toys never deliver. 
+
+You can reduce stress by purchasing less stuff that you really don’t need and making a commitment to save and invest at least 10% of your income.
+				</summary>
+				</solution>
+
+</solution-class>
+
+
+<solution-class>
+	<id>sc13</id>
+	<title>General state of happiness self help</title>
+	
+				<solution>
+				<id>so1</id>
+				<title>Prioritize Happiness</title>
+				<summary>
+Preya is what is pleasant; shreya, what is beneficial. Preya gives us instant happiness, the happiness of eating a good meal or buying an outfit, or getting a compliment. Shreya also gives us happiness, but in the long run, such as when we embark on a fitness program or kick the smoking habit. So how do we choose shreya? Simply, by not choosing preya. Our refusal to settle for short-term happiness in itself guarantees long-term happiness.
+
+Prioritizing happiness means a single-minded focus on shreya. Are your eating habits interfering with your health? Change them. Is your anger spewing unhappiness around? Let it go. Are you spending more money than you make? Get financially smart. Are your relationships in trouble? Work at them. Is your yen for fame or power coming in the way of your happiness goal? Off with their heads. How do you access such superhuman will? This takes us to the next step.
+				</summary>
+				</solution>
+				
+				<solution>
+				<id>so2</id>
+				<title>Know Thyself</title>
+				<summary>
+When the Self is confused with the body, mind, and senses, they point out, he seems to enjoy pleasure and suffer sorrow. The nature of the senses is to run after objects of desire, and only a well-trained mind controlled by a discriminating intellect, which takes its guidance from the sequestered Self, can rein them in. This then is the task before us: to train the senses, discipline the mind, and strengthen the intellect to awaken the Self.
+
+The Buddhist approach to ultimate happiness is the abolishment of the entire structure of consciousness by focusing on reaction. While Vedanta moves you towards a positive identity, Buddhism unshackles the construct of all identity. Each, however, forces us to confront the very depth of our nature.
+
+So how do we start the process of de-identification? Move to the next step
+				</summary>
+				</solution>
+
+
+				<solution>
+				<id>so3</id>
+				<title>Enhance Your Self-Esteem</title>
+				<summary>
+ "To trust one's mind and to know that one is worthy of happiness is the essence of self-esteem." There are six pillars that comprise self-esteem. These are:
+
+1. Living consciously: The ability to be active rather than passive, to be in the moment, and to have a commitment for growth.
+
+2. Self-acceptance: The ability to be on one's side, to accept all feelings, thoughts and acts and to be compassionate with oneself.
+
+3. Self-responsibility: To take responsibility for the achievement of desires, one's behavior with others, and for one's happiness.
+
+4. Self-assertive: To know that we have the right to be who we are and that we do not have to live up to others' expectations.
+
+5. Purposeful living: To use our internal power for the attainment of our goals, including happiness, by taking responsibility for it, identifying the actions necessary to achieve it, monitoring our behavior to check if it is in alignment and so on.
+
+6. Personal integrity: When our behavior is congruent with our professed values, and ideals and practice match.
+
+The other way of accessing self-esteem is through the knowledge of who we are. If we are divine, an aspect of God, then surely that is reason for self-esteem? Self-esteem is innate; an aspect of our true nature and what stops us from experiencing it is our ignorance and conditioning.
+				</summary>
+				</solution>
+
+
+				<solution>
+				<id>so4</id>
+				<title>Go Within</title>
+				<summary>
+The first thing we learn is that we have very little control over our mind. And that we are never in the present. We zigzag between the past and the future in a medley of regrets, despair, anger, worry, fear and so on. We have certain ideas of the world and people based on our past and we view the whole of life through that prism.
+
+The subconscious is fully influenced by our thoughts. If we think repeatedly that we are good, worthwhile and likable, the subconscious gets the message and automatically operates from that assumption, giving rise to behavior that is open, spontaneous and non-manipulative.
+
+Whether through chanting, watching your breath and sensations as in vipassana, your mind is automatically drawn to its own wayward movement. By patiently bringing it back to the subject on hand and allowing our thoughts to be, we finally begin to move towards stillness and inner balance. The momentum of thoughts declines, and we experience a modicum of choice.	
+
+If we can watch the thoughts without identifying with them or reacting to them, then there is a gap between the thought and us. This is the beginning of going beyond the mind. 
+				</summary>
+				</solution>
+
+
+				<solution>
+				<id>so5</id>
+				<title>Transcend Happiness</title>
+				<summary>
+When the will becomes powerful enough to take on desire, the discriminating intellect (the charioteer, remember?) awakens. Buddhi, as it is referred to in Vedanta, is the center of discrimination. It views the situation on the whole and helps us to arrive at balanced and wise decisions that benefit the larger good instead of our selfish purposes.
+
+To transcend this duality of likes and dislikes; pain and pleasure, we need to let go of our need for happiness. To free ourselves from this entire edifice of reactions, we must destroy the whole structure. Yes, indeed, the secret of happiness is to let go of our need for it. Established in equanimity, we become witnesses to the ebb and flow of events in our lives, resisting nothing, holding on to nothing. 
+				</summary>
+				</solution>
+				
+				<solution>
+				<id>so6</id>
+				<title>Recognize the Other</title>
+				<summary>
+Only when we have finally relinquished our ego-centered perspective based on likes and dislikes do we really become conscious of the other as existing in their own right and not as instruments of our need. Happy yourself, you seek to make the other happy. You acknowledge them, appreciate their good points and point out their potential.
+
+You empathize with their misery and strive to support them through it. Free of need, you become a selfless repository for others' needs. And you discover that they are a potent source of happiness too. Participating in the joys of others fulfills us as much as our own joy. By focusing on their happiness we transcend all conflicts both within and without us.
+
+You no longer require people to be polite, courteous, loving or unselfish. You can allow them the space to be themselves and take on the responsibility of the relationship on yourself. When this happens, you are cutting off all the cords that tied you to others and to circumstances. Awesomely enough, you are now free. 
+				</summary>
+				</solution>
+				
+				
+				<solution>
+				<id>so7</id>
+				<title>Be in the Moment</title>
+				<summary>
+When the content of our consciousness is emptied, when we have accepted every minuscule bit of ourselves, when we have freed ourselves of all conditioning, when the past and the future are closed chapters, then the present unfolds like an endless song. 
+
+ Still as a lake, our mind is poised in the moment, alert, joyous and free. With no identity to fetter us, no needs to tie us down, we surrender ourselves fully to life, experiencing, enjoying and letting go. We are home, free. 
+				</summary>
+				</solution>
+
+</solution-class>
+
+</solution-types>
+
+
+</feed>

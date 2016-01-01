@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="fill_parent"
+    android:layout_height="fill_parent" android:scrollbars="none">
+<LinearLayout 
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:clickable = "true"
+    android:background = "@drawable/summary_yellow"
+    >
+<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" 
+android:layout_marginTop="35dip" android:textColor="@color/brickred" android:typeface="serif" 
+android:id="@+id/heading_solution_summary" android:text="@string/heading_summary" 
+android:gravity="center_horizontal" android:layout_gravity="center_horizontal" 
+android:textSize="20dip"/>  
+<TextView
+android:text="@string/solution_title" 
+android:id="@+id/title_solution_summary" android:layout_width="wrap_content" 
+android:layout_height="wrap_content"
+android:textStyle="bold"
+android:singleLine ="false" 
+android:textColor="@color/brickred"
+android:background ="@null" 
+android:enabled="true" 
+android:layout_marginTop="15dip" 
+android:layout_marginRight="10dip" 
+android:layout_marginLeft="10dip"
+android:textSize = "18dip"
+android:gravity="fill_horizontal|center" android:clickable="true">
+</TextView>
+<TextView 
+android:layout_width="fill_parent" 
+android:text="wdededreererererererrrrrrr.r reewrere rererereereer" 
+android:id="@+id/detailed_solution_summary" 
+android:layout_height="wrap_content" 
+android:singleLine ="false" 
+android:textColor="@color/brickred"
+android:background ="@null" 
+android:enabled="true" 
+android:layout_marginTop="3dip" 
+android:layout_marginRight="10dip" 
+android:layout_marginLeft="10dip"
+android:textSize = "15dip"
+android:gravity="fill_horizontal|center"
+/>
+</LinearLayout>
+</ScrollView>

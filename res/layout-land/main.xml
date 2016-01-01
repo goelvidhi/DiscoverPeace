@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout android:id="@+id/mainLayout" android:layout_width="fill_parent" 
+android:layout_height="fill_parent" android:orientation = "vertical" 
+android:background="@drawable/background_home" 
+xmlns:android="http://schemas.android.com/apk/res/android">
+
+<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" 
+android:layout_marginTop="20dip" android:textColor="@color/brickred" android:typeface="serif" 
+android:id="@+id/first_page_heading" android:text="@string/heading" 
+android:gravity="center_horizontal" android:layout_gravity="center_horizontal" 
+android:textSize="35dip"/>
+
+<TextView android:text="@string/first_page_description" 
+android:id="@+id/first_page_description" android:layout_width="wrap_content" 
+android:layout_height="wrap_content" android:layout_marginTop="10dip" android:textSize="22dip" 
+android:textColor="@color/white" android:textColorHighlight="@color/grey" android:layout_marginLeft="20dip" android:layout_marginRight="20dip"></TextView>
+
+<Button android:id="@+id/start_here" android:text="Go" android:textColor= "@color/brickred" 
+android:layout_height="30dip" android:layout_gravity="center_horizontal" 
+android:layout_width="200dip"  android:layout_marginTop="98dip" android:textSize="18dip"
+android:background="@drawable/button_shape"
+></Button>
+ 
+ 
+ 
+
+</LinearLayout>

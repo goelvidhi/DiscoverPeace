@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Main!</string>
+    <string name="app_name">Discover Peace</string>
+    <string name= "heading">|discover peace|</string>
+    <string name ="first_page_description">Stress free your mind-body-soul and realize your inner energy to become self dependent in all aspects. </string>
+    <string name= "heading_list">|choose your stress|</string>
+    <string name= "heading_summary">|soothe your nerves|</string>
+	<string name= "solution_title">Solution Title</string>
+	<string name= "updates">UPdates</string>
+	<string name= "eula">Eula</string>
+	<string name= "quit">Quit Application</string>
+	<string name= "quit_message">Do you want to quit ?</string>
+	
+	
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="italicsText">
+        <item name="android:textStyle">bold|italic</item>
+    </style>
+
+    <style name="normalText">
+        <item name="android:textStyle">bold|normal</item>
+        
+    </style>
+    
+   
+    
+    <style name = "shadowFocused">
+    <item name="android:shadowColor">@color/snow</item>
+  <item name="android:shadowRadius">2</item>
+  <item name="android:shadowDx">2</item>
+  <item name="android:shadowDy">2</item>
+    </style>
+    
+
+</resources>
